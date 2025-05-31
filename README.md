@@ -66,7 +66,7 @@ STICKER_PACK_TITLE="sticker pack test lorem title" # example title
 $ node cli
 usage: cli.js [-h] [-c] [-d] [-b] [-v]
 
-    @github.com/motebaya - 2025
+         @github.com/motebaya - 2025
     Manage your TG Stickers with NodeJS
 
 optional arguments:

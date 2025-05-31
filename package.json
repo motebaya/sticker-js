@@ -1,0 +1,28 @@
+{
+  "name": "sticker-js",
+  "version": "1.0.0",
+  "description": "bulk create,convert,delete telegram sticker pack with telegram bot api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "motebaya",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/motebaya/sticker-js"
+  },
+  "homepage": "https://github.com/motebaya/sticker-js",
+  "bugs": "https://github.com/motebaya/sticker-js/issues",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "chalk": "^5.4.1",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.5.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "sharp": "^0.34.2",
+    "winston": "^3.17.0"
+  }
+}

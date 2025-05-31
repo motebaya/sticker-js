@@ -1,0 +1,5 @@
+node_modules/*
+trash/*
+.env
+image-test/*
+stickers*.json

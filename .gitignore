@@ -3,3 +3,4 @@ trash/*
 .env
 image-test/*
 stickers*.json
+storage/*/

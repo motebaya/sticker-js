@@ -83,13 +83,16 @@ optional arguments:
 > before getting the user id, you need to start a chat with your bot using the account you want to get the user id from!
 > otherwise, the user id won't be useful at all.
 
+place all your folders — the ones containing the images to be processed — into the `/storage` folder at the `root` of the project.
+e.g: `/storage/<fucking_images>`
+
 1. Create a new sticker pack:
 
 ```bash
 node cli --create ./my-stickers
 ```
 
-2. Create a sticker pack with batch processing:
+2. Create a sticker pack with batch processing (recommended):
 
 ```bash
 node cli --create ./my-stickers --batch

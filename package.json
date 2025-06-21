@@ -19,7 +19,6 @@
   "dependencies": {
     "argparse": "^2.0.1",
     "chalk": "^5.4.1",
-    "cli-progress": "^3.12.0",
     "dotenv": "^16.5.0",
     "node-telegram-bot-api": "^0.66.0",
     "sharp": "^0.34.2",

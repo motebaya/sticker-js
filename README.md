@@ -6,7 +6,6 @@ Telegram Sticker Pack Manager
 [![nodejs](https://img.shields.io/badge/nodeJs-18.18.2-green?logo=node.js&logoColor=green)](https://nodejs.org)
 [![argparse](https://img.shields.io/badge/argparse-2.0.1-blue?logo=nodedotjs&logoColor=white)](https://www.npmjs.com/package/argparse)
 [![chalk](https://img.shields.io/badge/chalk-5.4.1-yellow?logo=javascript&logoColor=white)](https://www.npmjs.com/package/chalk)
-[![cli-progress](https://img.shields.io/badge/cli--progress-3.12.0-blueviolet?logo=terminal&logoColor=white)](https://www.npmjs.com/package/cli-progress)
 [![dotenv](https://img.shields.io/badge/dotenv-16.5.0-lightgrey?logo=dotenv&logoColor=white)](https://www.npmjs.com/package/dotenv)
 [![node-telegram-bot-api](https://img.shields.io/badge/node--telegram--bot--api-0.66.0-0088cc?logo=telegram&logoColor=white)](https://www.npmjs.com/package/node-telegram-bot-api)
 [![sharp](https://img.shields.io/badge/sharp-0.34.2-green?logo=sharp&logoColor=white)](https://sharp.pixelplumbing.com)
@@ -128,7 +127,6 @@ node cli --delete all
 
 - `argparse`: Command-line argument parsing
 - `chalk`: Terminal string styling
-- `cli-progress`: Progress bar for CLI
 - `dotenv`: Environment variable management
 - `node-telegram-bot-api`: Telegram Bot API integration
 - `sharp`: Image processing
